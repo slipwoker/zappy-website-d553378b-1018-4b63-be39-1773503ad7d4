@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://sk-perfume-d553378b.zappy5.app
+https://example.com
 היכנסו לעולם של ניחוחות ייחודיים עם קולקציית SK Perfume. מצאו את הבושם המושלם שמבטא את הסגנון האישי שלכם. התחילו את מסע הניחוח שלכם עוד היום.
 
 ### מסעות ניחוח
-https://sk-perfume-d553378b.zappy5.app/fragrance-journeys
+https://example.com/fragrance-journeys
 גלו מסעות ניחוח מרתקים שיעוררו את החושים וירחיבו את האופקים. כל מסע הוא סיפור ייחודי שמחכה לכם. הצטרפו עכשיו לחוויית ניחוח שאין שניה לה.
 
 ### אודות
-https://sk-perfume-d553378b.zappy5.app/about
+https://example.com/about
 גלו את הסיפור והחזון שמאחורי SK Perfume. למה אנחנו כל כך אוהבים ניחוחות ואיך אנחנו יוצרים חיבורים רגשיים דרך בשמים. בואו להכיר אותנו לעומק.
 
 ### צור קשר
-https://sk-perfume-d553378b.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על ניחוח או זקוקים להכוונה אישית? צרו קשר עם צוות המומחים של SK Perfume ונשמח לעזור לכם למצוא את הבושם האידאלי עבורכם.
 
 ### Products
-https://sk-perfume-d553378b.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - SK Perfume
 
 ### Cart
-https://sk-perfume-d553378b.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://sk-perfume-d553378b.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://sk-perfume-d553378b.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://sk-perfume-d553378b.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://sk-perfume-d553378b.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://sk-perfume-d553378b.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - SK Perfume
 
 ### Category
-https://sk-perfume-d553378b.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - SK Perfume
 
 ### תודה שפנית אלינו
-https://sk-perfume-d553378b.zappy5.app/thank-you
+https://example.com/thank-you
 SK Perfume - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://sk-perfume-d553378b.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://sk-perfume-d553378b.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://sk-perfume-d553378b.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Perfume & Fragrance
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://sk-perfume-d553378b.zappy5.app/sitemap.xml
-- Robots: https://sk-perfume-d553378b.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://sk-perfume-d553378b.zappy5.app/llms-full.txt
-- Products (JSON): https://sk-perfume-d553378b.zappy5.app/products.json
-- Products (Google Merchant RSS): https://sk-perfume-d553378b.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
